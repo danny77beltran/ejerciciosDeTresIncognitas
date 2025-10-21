@@ -1,2 +1,2 @@
 # ejerciciosDeTresIncognitas
-Ejercicos de 3 incógnitas
+Ejercicios de 3 incógnitas
